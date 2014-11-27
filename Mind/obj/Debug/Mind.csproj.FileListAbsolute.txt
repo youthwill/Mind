@@ -1,0 +1,8 @@
+C:\Users\Hard\Documents\GitHub\Mind\Mind\bin\Debug\Mind.exe
+C:\Users\Hard\Documents\GitHub\Mind\Mind\bin\Debug\Mind.pdb
+C:\Users\Hard\Documents\GitHub\Mind\Mind\obj\Debug\Mind.csprojResolveAssemblyReference.cache
+C:\Users\Hard\Documents\GitHub\Mind\Mind\obj\Debug\Mind.Mind.resources
+C:\Users\Hard\Documents\GitHub\Mind\Mind\obj\Debug\Mind.Properties.Resources.resources
+C:\Users\Hard\Documents\GitHub\Mind\Mind\obj\Debug\Mind.csproj.GenerateResource.Cache
+C:\Users\Hard\Documents\GitHub\Mind\Mind\obj\Debug\Mind.exe
+C:\Users\Hard\Documents\GitHub\Mind\Mind\obj\Debug\Mind.pdb
