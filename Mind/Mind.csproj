@@ -50,6 +50,7 @@
     <Compile Include="Mind.Designer.cs">
       <DependentUpon>Mind.cs</DependentUpon>
     </Compile>
+    <Compile Include="MindAPI.cs" />
     <Compile Include="MindMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Mind.resx">
